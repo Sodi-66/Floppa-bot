@@ -8,7 +8,7 @@ import utils
 from utils import update_floppas
 
 
-tg_token = '6627394164:AAHOSe5nb6ZYM3Tbt2VnvXuEXh5S4-898hs'
+tg_token = 'your token'
 
 bot = telebot.TeleBot(tg_token)
 
